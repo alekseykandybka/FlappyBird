@@ -21,10 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="06a95553-99a0-4f65-9ee3-f8ea5125433d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pipe/ScoreZone.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bird/BirdCollisionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PipeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,6 +46,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bird/Bird.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bird/BirdCollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PipeGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" />
       </list>
     </option>
   </component>
@@ -89,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725354163068</updated>
       <workItem from="1725354166805" duration="1549000" />
-      <workItem from="1725366138153" duration="1808000" />
+      <workItem from="1725366138153" duration="3913000" />
     </task>
     <servers />
   </component>
