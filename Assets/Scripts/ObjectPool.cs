@@ -6,6 +6,7 @@ public class ObjectPool : MonoBehaviour
 {
     [SerializeField] private GameObject _container;
     [SerializeField] private int _capacity;
+    [SerializeField] private int _saveDistance;
 
     private Camera _camera;
     
@@ -47,7 +48,7 @@ public class ObjectPool : MonoBehaviour
             if(item.activeSelf == true)
             {
                 {
-                    if (item.transform.position.x < dissablePoint.x)
+                    if (item.transform.position.x < dissablePoint.x - _saveDistance)
                         item.SetActive(false);
                 }
             }

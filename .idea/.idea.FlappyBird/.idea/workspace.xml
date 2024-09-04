@@ -23,6 +23,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bird/Bird.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bird/Bird.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/DieFlash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/DieFlash.png.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +42,30 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pipe/ScoreZone.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bird/BirdCollisionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/Score.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PipeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/GameOverScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/Screen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/StartScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/BirdTracker.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Bird/Bird.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bird/BirdCollisionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PipeGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/StartScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/GameOverScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/Screen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bird/Bird.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/Score.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" />
       </list>
     </option>
   </component>
@@ -92,6 +110,7 @@
       <updated>1725354163068</updated>
       <workItem from="1725354166805" duration="1549000" />
       <workItem from="1725366138153" duration="3913000" />
+      <workItem from="1725430231770" duration="4422000" />
     </task>
     <servers />
   </component>
@@ -114,5 +133,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="232" key="RiderGenerateDialog" timestamp="1725431547206">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="794" y="232" key="RiderGenerateDialog/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1725431547206" />
   </component>
 </project>
