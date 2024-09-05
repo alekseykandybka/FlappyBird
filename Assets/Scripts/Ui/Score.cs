@@ -4,7 +4,7 @@ using UnityEngine;
 public class Score : MonoBehaviour
 {
     [SerializeField] private Bird _bird;
-    [SerializeField] private TMP_Text _scoreText;
+    [SerializeField] private TextMeshProUGUI _scoreText;
 
     private void OnEnable()
     {
